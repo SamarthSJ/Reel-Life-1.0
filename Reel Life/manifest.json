@@ -1,0 +1,10 @@
+{
+  "name": "Reel Life",
+  "version": "1.0",
+  "description": "My social media handles",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "network.png",
+    "default_popup": "index.html"
+  }
+}
